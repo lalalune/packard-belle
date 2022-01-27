@@ -2,7 +2,7 @@
 @import "./functions/box-shadows";
 @import "./var/uris";
 
-$start: "data:image/gif;base64,R0lGODlhNAATAPIFAAAAAAAA/wD/AP//AP8AAAAAAAAAAAAAACH5BAUAAAUALAAAAAA0ABMAAAOMWLrc/jDKSau9OF/Agf5RJ3ogRi4dwQkdI5aPJ6cqILAnp+j7KfGxEaF2AwJdvlBSQWhwaivjstCiVltVRnMLHR1fqKWOd2wMh50AZ5BFhsNYUlkRcAICasCAPZX2/mRTdYN5eGt8b1aJgYqND3iGdyKIcEmBcYkudl5zMBAyVm1tnhMjn6SoqaqrDwkAOw==";
+// $start: "";
 
 @mixin button {
   border: 0px solid transparent;
@@ -227,7 +227,7 @@ $start: "data:image/gif;base64,R0lGODlhNAATAPIFAAAAAAAA/wD/AP//AP8AAAAAAAAAAAAAA
   align-content: center;
   width: 54px;
   padding-right: 6px;
-  background-image: url($start);
+  // background-image: url($start);
   background-size: auto 18px;
   background-repeat: no-repeat;
   background-position: 2px 1px;
