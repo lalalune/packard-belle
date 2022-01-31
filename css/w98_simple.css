@@ -37,6 +37,9 @@ html {
     /* core resizers */
     /* stylelint-disable */
     /* stylelint-enable */ }
+    .w98 .textarea {
+      width: 100%;
+    }
     .w98 * .default, .w98 .default {
       cursor: url("data:image/gif;base64,R0lGODlhCwATAJEAAAAAAP///////wAAACH5BAEAAAIALAAAAAALABMAAAIrhI4JlhrcBAgvSlrbxPBs7mAU9IlMaV7mwo6jY2zk+Xphh8iWint1tDgUAAA7"), default; }
     .w98 * .ns-resize, .w98 .ns-resize {
@@ -62,7 +65,6 @@ html {
     .w98 input[type="text"],
     .w98 textarea,
     .w98 .text * {
-      width: 100%;
       cursor: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAkAAAASAgMAAAD07hzbAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAAJUExURUdwTP///wAAAObOYyIAAAABdFJOUwBA5thmAAAAIElEQVQI12MIFXVgyNJyYAid6sDAOIGBJBw6FapX1AEAtPsMHfNC+MIAAAAASUVORK5CYII="), text !important; }
     .w98 * .none, .w98 .none {
       cursor: none; }
