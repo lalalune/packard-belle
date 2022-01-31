@@ -94,6 +94,7 @@ storiesOf('Windows', module)
       onClose={noop}
       onMinimize={noop}
       onMaximize={noop}
+      maximizeOnOpen
       menuOptions={[
         {
           title: 'File',
