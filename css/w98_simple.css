@@ -37,7 +37,7 @@ html {
     /* core resizers */
     /* stylelint-disable */
     /* stylelint-enable */ }
-    .w98 .textarea {
+    .w98 textarea {
       width: 100%;
     }
     .w98 * .default, .w98 .default {
